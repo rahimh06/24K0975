@@ -1,0 +1,24 @@
+# Making a simple calculator with all the operators (+,-,*,/,%)
+Start
+
+Ask the user to enter num1
+Ask the user to enter num2
+Ask the user to enter operator
+
+Set Result to 0
+
+If the operator = "+" then set Result to num1 + num2
+Else
+  If the operator = "-" then set Result to num1 - num2
+  Else
+    If the operator = "*" then set Result to num1 * num2
+    Else
+      If the operator = "/" then set Result to num1 / num2
+      Else
+        If the operator = "%" then set Result to (num1 / num2) * 100
+        Else 
+          Print "invalid operator"
+
+Print Result
+
+End
