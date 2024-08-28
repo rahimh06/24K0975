@@ -1,0 +1,17 @@
+# Addition of 3 numbers without using +
+
+START
+
+INPUT a
+INPUT b
+INPUT c
+
+SET sum to 0
+
+SET b to -1*b
+SET c to -1*c
+
+SET sum to a-b-c
+PRINT sum
+
+END
