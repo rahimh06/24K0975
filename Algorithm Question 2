@@ -1,0 +1,34 @@
+# User enters a number, and an appropriate month is displayed
+Start
+
+Ask user to enter number
+Set month to " "
+If number < 1 or number > 12 then print "invalid month"
+Else
+  If number = 1 then set month to January
+  Else
+    If number = 2 then set month to February
+    Else
+      If number = 3 then set month to March
+      Else
+        If number = 4 then set month to April
+        Else
+          If number = 5 then set month to May
+          Else
+            If number = 6 then set month to June
+            Else
+              If number = 7 then set month to July
+              Else
+                If number = 8 then set month to August
+                Else
+                  If number = 9 then set month to September
+                  Else
+                    If number = 10 then set month to October
+                    Else
+                      If number = 11 then set month to November
+                      Else
+                        If number = 12 then set month to December
+                        Else
+                          Print "invalid number
+Print month
+End
