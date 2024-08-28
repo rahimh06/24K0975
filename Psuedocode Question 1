@@ -1,4 +1,5 @@
-#Largest of 3 Variables
+# Largest of 3 Variables
+
 START
 
 INPUT num1
@@ -15,3 +16,4 @@ ELSE
             PRINT num3 "is the largest"
         ELSE
             PRINT "All numbers are equal"
+END
