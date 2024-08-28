@@ -1,0 +1,16 @@
+# Determining if an Nth is a divisor of an n Number and whether its even or odd
+Start
+
+Ask the user to enter a dividend
+Ask the user to enter a divisor
+
+Set quotient to dividend/divisor
+Set number to 0
+
+If quotient not = integer, then print divisor "is not a divisor" of dividend
+If quotient = integer, then print divisor "is a divisor" of dividend
+  Set number to quotient/2
+  If number = integer, then print "quotient is an even number"
+  If number not = integer, then print "quotient is an odd number"
+
+End
