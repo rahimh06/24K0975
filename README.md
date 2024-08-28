@@ -8,4 +8,5 @@ Some of my hobbies/interests include:
   - Basketball
   - Reading (Sometimes)
   - Playing video games with friends
+
 I hope to rise up to the level in which I can positively contribute to the world in the field of computer science
